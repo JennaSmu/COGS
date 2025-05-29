@@ -1,4 +1,0 @@
-- $20/month for email - Moonbound
-- Includes WooCommerce
-	- Uses Stripe
-- Includes email
