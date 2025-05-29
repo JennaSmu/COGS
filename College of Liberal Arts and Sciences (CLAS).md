@@ -1,0 +1,6 @@
+---
+tags:
+  - 🏛️-college
+aliases:
+  - CLAS
+---
