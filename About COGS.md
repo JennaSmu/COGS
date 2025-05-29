@@ -1,0 +1,6 @@
+---
+tags:
+  - 📜-history
+Date: 2015-09-12
+---
+Union Structure The Members Run This Union! UE Local 896/COGS is a democratic, rank-and-file Union. Like our national Union, UE, Local 896/COGS doesn’t just depend on the members. It is the members. At all levels of our Union – Local, District, and National – democracy dictates. Members directly elect all Officers, Committee Chairs, Stewards, and Delegates on an annual basis. Every major position and policy taken by the Union is debated and voted on by the members. All major expenditures must be approved by the membership. The Coordinating Committee and Bargaining and Grievance Committee are at all times accountable to the membership. Likewise, the members must be and are actively involved in furthering the goals of the Union in order for them to be achieved. This is what we call rank-and-file democracy. If you are already a UE/COGS member, consider getting involved in one of the committees listed below or running for a steward position in your department. If you can’t make such a commitment, make an effort to attend monthly Union meetings. What every member has to say is important. If you are not currently a member of UE/COGS, talk to your departmental steward or call the COGS office…
