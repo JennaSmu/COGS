@@ -13,13 +13,13 @@ kit:
   version: latest
   dirs: false
 site:
-  id: 
-  name: COGS-test
-  description: Welcome to COGS-test
-  url: https://your-site-domain.com
+  id: https://jennasmu.github.io/COGS/
+  name: COGS
+  description: Welcome to COGS
+  url: https://jennasmu.github.io/COGS/
   keyswords: publishkit, blogging, markdown
 og:
-  image: https://publishkit.dev/attachements/og-image.png
+  image: obsidian://open?vault=COGS&file=Admin%2FAttachments%2FCOGS%20Logo.png
 plugins:
   theme: "@default"
   header: true
@@ -28,6 +28,7 @@ plugins:
   toc: true
   search: true
   social: true
+  chargebee: true
 social:
   github: https://publishkit.dev
   discord: https://publishkit.dev
