@@ -1,6 +1,0 @@
----
-tags:
-  - 🏛️-college
-aliases:
-  - CPUB
----
